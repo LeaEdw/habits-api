@@ -1,0 +1,1217 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Lea",
+      "email": "lea_edw@me.com",
+      "birthdate": "1994-11-15",
+      "phoneNumber": "+16151234567"
+    },
+    {
+      "id": 2,
+      "username": "Alex",
+      "email": "alex.m@example.com",
+      "birthdate": "1988-03-22",
+      "phoneNumber": "+16159876543"
+    },
+    {
+      "id": 3,
+      "username": "Samira",
+      "email": "samira.k@webmail.net",
+      "birthdate": "1999-07-01",
+      "phoneNumber": "+16155551234"
+    },
+    {
+      "id": 4,
+      "username": "Chris",
+      "email": "c.jones@corp.com",
+      "birthdate": "1975-01-10",
+      "phoneNumber": "+16153337777"
+    },
+    {
+      "id": 5,
+      "username": "Taylor",
+      "email": "taylor.r@mail.co",
+      "birthdate": "2001-09-29",
+      "phoneNumber": "+16150009988"
+    },
+    {
+      "username": "Damian",
+      "email": "darkLordxx@gmail.com",
+      "phoneNumber": "6152133452",
+      "birthdate": "1998-09-22",
+      "id": 7
+    },
+    {
+      "username": "Sam",
+      "email": "samaqu@me.com",
+      "phoneNumber": "6151234567",
+      "birthdate": "1989-09-27",
+      "id": 8
+    },
+    {
+      "username": "Cappie",
+      "email": "CappieBerra@gmail.com",
+      "phoneNumber": "615800000",
+      "birthdate": "2023-05-24",
+      "id": 9
+    },
+    {
+      "username": "Raina",
+      "email": "rainabear@me.com",
+      "phoneNumber": "000-000-0000",
+      "birthdate": "2000-01-14",
+      "id": 10
+    },
+    {
+      "username": "Tim",
+      "email": "tim@me.com",
+      "phoneNumber": "6150000000",
+      "birthdate": "1992-11-19",
+      "id": 11
+    }
+  ],
+  "taskList": [],
+  "task": [
+    {
+      "taskName": "Clean bedroom",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-05T04:36:24.581Z",
+      "dateCompleted": "2026-02-05T05:51:02.974Z",
+      "completedStatus": true,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "taskName": "Read for 1 hour",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-05T04:36:44.565Z",
+      "dateCompleted": "2026-02-06T02:34:02.021Z",
+      "completedStatus": true,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "taskName": "Take Daily Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-05T04:58:58.548Z",
+      "dateCompleted": "2026-02-06T02:34:03.003Z",
+      "completedStatus": true,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "taskName": "Complete the capstone",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-05T05:52:27.958Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "taskName": "Get half of the stretch goals finished",
+      "userTaskGroup": 0,
+      "categoryId": 8,
+      "dateCreated": "2026-02-05T05:52:51.906Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "taskName": "Get all of the stretch goals done",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-05T05:53:05.590Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "taskName": "Take Daily Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-05T05:54:28.440Z",
+      "dateCompleted": "2026-02-10T01:53:00.639Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "taskName": "Finish the painting for Bella",
+      "userTaskGroup": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-05T05:54:52.490Z",
+      "dateCompleted": "2026-02-10T01:53:09.157Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "taskName": "Finish the today section of the statistics page",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-09T02:31:57.842Z",
+      "dateCompleted": "2026-02-10T01:53:09.157Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "taskName": "Vacuum the TV Room",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-09T03:01:50.440Z",
+      "dateCompleted": "2026-02-10T01:53:09.157Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "taskName": "Check about the AC",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-10T01:53:34.954Z",
+      "dateCompleted": "2026-02-10T03:16:57.538Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "taskName": "Get the mail",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-10T02:10:31.508Z",
+      "dateCompleted": "2026-02-10T02:10:51.462Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "taskName": "Wash a load of laundry",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-10T02:10:44.691Z",
+      "dateCompleted": "2026-02-10T03:16:58.806Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "taskName": "Take Daily Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-10T02:21:11.089Z",
+      "dateCompleted": "2026-02-10T02:21:17.590Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "taskName": "Prep Dinner for Tomorrow",
+      "userTaskGroup": 0,
+      "categoryId": 9,
+      "dateCreated": "2026-02-04T10:00:00.000Z",
+      "dateCompleted": "2026-02-04T12:30:00.000Z",
+      "completedStatus": true,
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "taskName": "Review project proposal draft",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-04T11:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "taskName": "Call maintenance about the sink",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-04T14:30:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 2,
+      "id": 18
+    },
+    {
+      "taskName": "Water the plants",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-04T17:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 2,
+      "id": 19
+    },
+    {
+      "taskName": "Book flight tickets",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-05T08:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 3,
+      "id": 20
+    },
+    {
+      "taskName": "Practice guitar for 30 minutes",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-05T12:00:00.000Z",
+      "dateCompleted": "2026-02-05T12:35:00.000Z",
+      "completedStatus": true,
+      "userId": 3,
+      "id": 21
+    },
+    {
+      "taskName": "Send meeting notes to team",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-05T14:00:00.000Z",
+      "dateCompleted": "2026-02-05T14:15:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "taskName": "Buy groceries",
+      "userTaskGroup": 0,
+      "categoryId": 9,
+      "dateCreated": "2026-02-05T17:30:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "taskName": "Write article summary",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-06T09:00:00.000Z",
+      "dateCompleted": "2026-02-06T10:30:00.000Z",
+      "completedStatus": true,
+      "userId": 2,
+      "id": 24
+    },
+    {
+      "taskName": "Go for a 30 minute run",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-06T11:00:00.000Z",
+      "dateCompleted": "2026-02-06T11:40:00.000Z",
+      "completedStatus": true,
+      "userId": 2,
+      "id": 25
+    },
+    {
+      "taskName": "Clear out email inbox",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-06T14:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "taskName": "Do the dishes",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-06T18:00:00.000Z",
+      "dateCompleted": "2026-02-06T18:30:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "taskName": "Mow the lawn",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-07T10:00:00.000Z",
+      "dateCompleted": "2026-02-07T11:30:00.000Z",
+      "completedStatus": true,
+      "userId": 3,
+      "id": 28
+    },
+    {
+      "taskName": "Update budget spreadsheet",
+      "userTaskGroup": 0,
+      "categoryId": 10,
+      "dateCreated": "2026-02-07T13:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 3,
+      "id": 29
+    },
+    {
+      "taskName": "Research holiday gift ideas",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-07T16:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 3,
+      "id": 30
+    },
+    {
+      "taskName": "Complete Chapter 2 coding exercises",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-08T09:00:00.000Z",
+      "dateCompleted": "2026-02-08T12:00:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 31
+    },
+    {
+      "taskName": "Take the dog for a walk",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-08T15:00:00.000Z",
+      "dateCompleted": "2026-02-08T15:45:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 32
+    },
+    {
+      "taskName": "Confirm dentist appointment",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-08T17:00:00.000Z",
+      "dateCompleted": "2026-02-08T17:05:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 33
+    },
+    {
+      "taskName": "Draft presentation slides",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-09T08:30:00.000Z",
+      "dateCompleted": "2026-02-09T11:00:00.000Z",
+      "completedStatus": true,
+      "userId": 2,
+      "id": 34
+    },
+    {
+      "taskName": "Organize pantry shelves",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-09T13:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 2,
+      "id": 35
+    },
+    {
+      "taskName": "Read industry news (3 articles)",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-09T16:00:00.000Z",
+      "dateCompleted": "2026-02-09T17:30:00.000Z",
+      "completedStatus": true,
+      "userId": 2,
+      "id": 36
+    },
+    {
+      "taskName": "Take Daily Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-11T00:03:26.961Z",
+      "dateCompleted": "2026-02-11T00:03:28.795Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 37
+    },
+    {
+      "taskName": "Pick up pottery from the studio",
+      "userTaskGroup": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-11T00:03:42.294Z",
+      "dateCompleted": "2026-02-11T00:03:44.096Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 38
+    },
+    {
+      "taskName": "Finish laundry",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-11T00:03:51.996Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 39
+    },
+    {
+      "taskName": "Clean the leftover dishes in the sink",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-11T00:04:05.462Z",
+      "dateCompleted": "2026-02-11T00:04:07.962Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 40
+    },
+    {
+      "taskName": "Work on coding project",
+      "userTaskGroup": 0,
+      "categoryId": 7,
+      "dateCreated": "2026-02-11T00:04:23.345Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 41
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-13T15:02:55.298Z",
+      "dateCompleted": "2026-02-13T17:33:41.595Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 42
+    },
+    {
+      "taskName": "Change all hand towels",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-13T18:18:05.720Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 43
+    },
+    {
+      "taskName": "Mop Floors",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-13T19:56:55.412Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 44
+    },
+    {
+      "taskName": "Go grocery shopping",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-14T03:00:08.203Z",
+      "dateCompleted": "2026-02-14T03:00:12.971Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 45
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-14T03:01:53.370Z",
+      "dateCompleted": "2026-02-14T03:02:30.319Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 46
+    },
+    {
+      "taskName": "Wrap gifts for Eshie",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-14T03:02:07.604Z",
+      "dateCompleted": "2026-02-14T03:02:31.020Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 47
+    },
+    {
+      "taskName": "Buy banana bread",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-14T03:02:17.938Z",
+      "dateCompleted": "2026-02-14T03:02:31.554Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 48
+    },
+    {
+      "taskName": "Buy smoked bologna",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-14T03:02:27.869Z",
+      "dateCompleted": "2026-02-14T03:02:32.270Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 49
+    },
+    {
+      "taskName": "Make the mailing list for gifts",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-14T03:02:54.304Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 50
+    },
+    {
+      "taskName": "Make local gifts list for family",
+      "userTaskGroup": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-14T03:03:08.903Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 51
+    },
+    {
+      "taskName": "Attend class from 9am - 2pm",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-14T03:03:33.871Z",
+      "dateCompleted": "2026-02-14T03:03:43.919Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 52
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-15T04:04:41.565Z",
+      "dateCompleted": "2026-02-15T04:11:30.230Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 53
+    },
+    {
+      "taskName": "Go to work",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-15T04:07:05.100Z",
+      "dateCompleted": "2026-02-15T04:11:31.163Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 54
+    },
+    {
+      "taskName": "Mix laundry powder",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-15T04:07:15.541Z",
+      "dateCompleted": "2026-02-15T04:11:32.363Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 55
+    },
+    {
+      "taskName": "Make unscented whipped butter refill",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-15T04:07:32.344Z",
+      "dateCompleted": "2026-02-15T04:11:33.004Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 56
+    },
+    {
+      "taskName": "Enter the daily production",
+      "userTaskGroup": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-15T04:07:43.386Z",
+      "dateCompleted": "2026-02-15T04:11:34.377Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 57
+    },
+    {
+      "taskName": "Finish CSS for capstone",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-15T04:07:54.455Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 58
+    },
+    {
+      "taskName": "Create daily checklist for tomorrow",
+      "userTaskGroup": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-15T04:08:20.594Z",
+      "dateCompleted": "2026-02-15T04:11:35.779Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 59
+    },
+    {
+      "taskName": "Push capstone changes to github",
+      "userTaskGroup": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-15T04:12:26.773Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 60
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskGroup": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-15T23:31:37.009Z",
+      "dateCompleted": "2026-02-15T23:32:39.228Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 61
+    },
+    {
+      "taskName": "Wash the laundry",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-15T23:31:45.509Z",
+      "dateCompleted": "2026-02-15T23:32:39.660Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 62,
+      "urgencyId": 2,
+      "timeOfDayId": 1
+    },
+    {
+      "taskName": "Take out the trash",
+      "userTaskGroup": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-15T23:31:54.510Z",
+      "dateCompleted": "2026-02-15T23:32:40.627Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 63
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-17T02:19:31.253Z",
+      "dateCompleted": "2026-02-17T02:20:02.867Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 66
+    },
+    {
+      "taskName": "Work on Stretch Goals",
+      "userTaskListId": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-17T02:19:45.002Z",
+      "dateCompleted": "2026-02-17T02:20:03.852Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 67
+    },
+    {
+      "taskName": "Wash Dishes after Dinner",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-17T02:20:01.385Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 68
+    },
+    {
+      "taskName": "Friday Morning Yoga",
+      "userTaskListId": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-19T14:30:00.000Z",
+      "dateCompleted": "2026-02-19T15:15:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 69
+    },
+    {
+      "taskName": "Grocery Shopping",
+      "userTaskListId": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-19T22:00:00.000Z",
+      "dateCompleted": "2026-02-19T23:30:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 70
+    },
+    {
+      "taskName": "Read 20 Pages",
+      "userTaskListId": 0,
+      "categoryId": 1,
+      "dateCreated": "2026-02-20T03:15:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 71
+    },
+    {
+      "taskName": "Thursday House Cleaning",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-18T16:00:00.000Z",
+      "dateCompleted": "2026-02-18T18:00:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 72
+    },
+    {
+      "taskName": "Review Project Docs",
+      "userTaskListId": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-18T20:00:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 73
+    },
+    {
+      "taskName": "Water Plants",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-19T01:30:00.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 74
+    },
+    {
+      "taskName": "Wednesday Gym Session",
+      "userTaskListId": 0,
+      "categoryId": 5,
+      "dateCreated": "2026-02-17T13:00:00.000Z",
+      "dateCompleted": "2026-02-17T14:30:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 75
+    },
+    {
+      "taskName": "Budget Update",
+      "userTaskListId": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-17T19:00:00.000Z",
+      "dateCompleted": "2026-02-17T19:15:00.000Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 76
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "dateCreated": "2026-02-20T15:23:54.055Z",
+      "dateCompleted": "2026-02-20T17:03:28.065Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 77,
+      "urgencyId": 0,
+      "timeOfDayId": 1
+    },
+    {
+      "taskName": "Make the bed",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-20T15:24:01.672Z",
+      "dateCompleted": "2026-02-20T15:25:26.189Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 78,
+      "urgencyId": 1,
+      "timeOfDayId": 1
+    },
+    {
+      "taskName": "Wrap the last gifts",
+      "userTaskListId": 0,
+      "categoryId": 2,
+      "dateCreated": "2026-02-20T15:24:38.276Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 80
+    },
+    {
+      "taskName": "Clean up living room",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "dateCreated": "2026-02-20T15:24:53.158Z",
+      "dateCompleted": "2026-02-20T17:03:31.720Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 81
+    },
+    {
+      "taskName": "Take out the trash",
+      "userTaskListId": 0,
+      "categoryId": 0,
+      "dateCreated": "2026-02-20T15:25:05.789Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "id": 82
+    },
+    {
+      "taskName": "Finish 1 stretch goal",
+      "userTaskListId": 0,
+      "categoryId": 6,
+      "dateCreated": "2026-02-20T15:25:22.155Z",
+      "dateCompleted": "2026-02-20T16:55:32.222Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 83,
+      "urgencyId": 3,
+      "timeOfDayId": 2
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-20T18:06:39.871Z",
+      "dateCompleted": "2026-02-20T18:07:58.789Z",
+      "completedStatus": true,
+      "userId": 10,
+      "id": 85
+    },
+    {
+      "taskName": "Eat breakfast",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-20T18:06:53.021Z",
+      "dateCompleted": "2026-02-20T18:07:59.871Z",
+      "completedStatus": true,
+      "userId": 10,
+      "id": 86
+    },
+    {
+      "taskName": "Run at the gym for 30 minutes",
+      "userTaskListId": 0,
+      "categoryId": 6,
+      "urgencyId": 2,
+      "timeOfDayId": 2,
+      "dateCreated": "2026-02-20T18:07:23.605Z",
+      "dateCompleted": "2026-02-20T18:08:01.887Z",
+      "completedStatus": true,
+      "userId": 10,
+      "id": 87
+    },
+    {
+      "taskName": "Make bed",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T18:34:46.792Z",
+      "dateCompleted": "2026-02-20T18:35:38.725Z",
+      "completedStatus": true,
+      "userId": 11,
+      "id": 88
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T18:35:07.074Z",
+      "dateCompleted": "2026-02-20T18:35:48.047Z",
+      "completedStatus": true,
+      "userId": 11,
+      "id": 89
+    },
+    {
+      "taskName": "Finish capstone",
+      "userTaskListId": 0,
+      "categoryId": 6,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T18:35:33.777Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 11,
+      "id": 91
+    },
+    {
+      "taskName": "Take Vitamins",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-22T01:58:53.270Z",
+      "dateCompleted": "2026-02-22T02:00:56.967Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 92
+    },
+    {
+      "taskName": "Call my daughter",
+      "userTaskListId": 0,
+      "categoryId": 5,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-22T01:59:24.706Z",
+      "dateCompleted": "2026-02-22T02:00:59.718Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 94
+    },
+    {
+      "taskName": "Brush teeth AM",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-22T01:59:38.306Z",
+      "dateCompleted": "2026-02-22T02:01:01.737Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 95
+    },
+    {
+      "taskName": "Brush Teeth PM",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 0,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-22T02:00:51.983Z",
+      "dateCompleted": "2026-02-22T02:02:23.773Z",
+      "completedStatus": true,
+      "userId": 1,
+      "id": 96
+    },
+    {
+      "taskName": "Brush Teeth",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-13T03:51:19.675Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "daily",
+      "id": 97
+    },
+    {
+      "taskName": "Water the Plants",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "urgencyId": 1,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-13T03:51:52.138Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "weekly",
+      "id": 98
+    },
+    {
+      "taskName": "Brush Teeth",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-14T03:52:01.377Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "daily",
+      "completedTask": false,
+      "id": 99
+    },
+    {
+      "taskName": "Water the Plants",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "urgencyId": 1,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T03:53:23.289Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "weekly",
+      "completedTask": false,
+      "id": 100
+    },
+    {
+      "taskName": "Water the Plants",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "urgencyId": 1,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T03:53:34.667Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "weekly",
+      "completedTask": false,
+      "id": 101
+    },
+    {
+      "taskName": "Water the Plants",
+      "userTaskListId": 0,
+      "categoryId": 3,
+      "urgencyId": 1,
+      "timeOfDayId": 0,
+      "dateCreated": "2026-02-20T03:53:59.371Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "weekly",
+      "completedTask": false,
+      "id": 102
+    },
+    {
+      "taskName": "Brush Teeth",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-14T03:54:48.081Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "daily",
+      "completedTask": false,
+      "id": 103
+    },
+    {
+      "taskName": "Brush Teeth",
+      "userTaskListId": 0,
+      "categoryId": 4,
+      "urgencyId": 2,
+      "timeOfDayId": 1,
+      "dateCreated": "2026-02-14T03:54:48.465Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": "daily",
+      "completedTask": false,
+      "id": 104
+    },
+    {
+      "taskName": "Test",
+      "userTaskListId": 0,
+      "categoryId": 9,
+      "urgencyId": 3,
+      "timeOfDayId": 2,
+      "dateCreated": "2026-03-15T19:01:29.303Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": 5,
+      "completedTask": false,
+      "id": 107
+    },
+    {
+      "taskName": "Test",
+      "userTaskListId": 0,
+      "categoryId": 9,
+      "urgencyId": 3,
+      "timeOfDayId": 2,
+      "dateCreated": "2026-03-15T19:01:51.403Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": 5,
+      "completedTask": false,
+      "id": 108
+    },
+    {
+      "taskName": "Test",
+      "userTaskListId": 0,
+      "categoryId": 9,
+      "urgencyId": 3,
+      "timeOfDayId": 2,
+      "dateCreated": "2026-03-15T19:01:53.000Z",
+      "dateCompleted": "",
+      "completedStatus": false,
+      "userId": 1,
+      "recurringInterval": 5,
+      "completedTask": false,
+      "id": 109
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "Work"
+    },
+    {
+      "id": 2,
+      "category": "Errands"
+    },
+    {
+      "id": 3,
+      "category": "Household"
+    },
+    {
+      "id": 4,
+      "category": "Health"
+    },
+    {
+      "id": 5,
+      "category": "Social"
+    },
+    {
+      "id": 6,
+      "category": "Skills"
+    },
+    {
+      "id": 7,
+      "category": "Hobbies"
+    },
+    {
+      "id": 8,
+      "category": "Financial"
+    },
+    {
+      "id": 9,
+      "category": "Misc"
+    }
+  ],
+  "taskGroup": [],
+  "sutbtasks": [],
+  "recurringTasks": [],
+  "urgencyLevels": [
+    {
+      "id": 1,
+      "urgency": "Low"
+    },
+    {
+      "id": 2,
+      "urgency": "Medium"
+    },
+    {
+      "id": 3,
+      "urgency": "High"
+    }
+  ],
+  "timeOfDay": [
+    {
+      "id": 1,
+      "time": "Morning"
+    },
+    {
+      "id": 2,
+      "time": "Midday"
+    },
+    {
+      "id": 3,
+      "time": "Night"
+    }
+  ],
+  "pre-madeTasks": []
+}
